@@ -5,6 +5,6 @@
 
 <h2>The sharing of the PPT and Project Report costs ₹150</h2>
 
-<p> If interested --> imsky004@gmail.com  or http://shubhaam13.github.io/ </p>
+<p> If interested :email: imsky004@gmail.com  or http://shubhaam13.github.io/ </p>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/99c59134-9f93-433a-ab83-4485ad646a60/deploy-status)](https://app.netlify.com/sites/svce-theatre/deploys)
