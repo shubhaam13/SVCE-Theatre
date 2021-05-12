@@ -7,6 +7,9 @@
 
 <p> If interested :email: imsky004@gmail.com  or 🔗 http://shubhaam13.github.io/ </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/shubhaam13"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shubhaam13" /></a></p>
+
 <h3>Screenshots</h3>
 
 ![IMG_20210512_130315](https://user-images.githubusercontent.com/55135227/117939239-7f8c6000-b325-11eb-85b1-c68f93eb10ff.jpg)
