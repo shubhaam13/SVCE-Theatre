@@ -7,6 +7,8 @@
 
 <p> If interested :email: imsky004@gmail.com  or 🔗 http://shubhaam13.github.io/ </p>
 
+<h3>Screenshots</h3>
+
 ![IMG_20210512_130315](https://user-images.githubusercontent.com/55135227/117939239-7f8c6000-b325-11eb-85b1-c68f93eb10ff.jpg)
 
 ![IMG_20210512_125245](https://user-images.githubusercontent.com/55135227/117939248-81562380-b325-11eb-83ee-02016450d94e.jpg)
