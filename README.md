@@ -83,5 +83,6 @@ Admin Control:
 
 ![IMG_20210512_130923](https://user-images.githubusercontent.com/55135227/117939258-831fe700-b325-11eb-9998-1d5da1bcb537.jpg)
 
-![IMG_20210512_131158](https://user-images.githubusercontent.com/55135227/117939366-992da780-b325-11eb-84cf-4c3a9341f4c2.jpg)
+![IMG_20210512_131158](https://user-images.githubusercontent.com/5513227/117939366-992da780-b325-11eb-84cf-4c3a9341f4c2.jpg)
 
+![images (1)_1620809069161](https://user-images.githubusercontent.com/55135227/117945968-79e64880-b32c-11eb-8c4c-ca834d1ee774.jpeg)
