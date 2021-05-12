@@ -9,6 +9,54 @@
 3. Admin 
 4. Transaction
 </p>
+<P> 
+The Data-requirements are given as follows: - 
+
+User Module
+
+* User Registration 
+∙ User Register with Name, A Username (for logging in later), Password, Phone Number, E-mail address. 
+* User Login 
+∙ User Can Book the Ticket After Log in. 
+∙ User Login with User Name and Password. 
+∙ Forgot Password use for Retrieve Password. 
+* Check Availability 
+∙ After Login, User, Can Search Movie From Movie List. 
+∙ User Can Check Ticket Availability. 
+∙ User can also check the Movie Running Hours. 
+∙ If Ticket is Available User Can Book Ticket. 
+* Book Ticket
+∙ User can book ticket by specifying username and Phone Number. 
+∙ Then Select Number of Seats to Book. 
+∙ A conformation Message will be sent to the Given Number. The content of the message is as shown below: - 
+                            “BKID-RANDOM 7 DIGIT NUMBER”
+
+
+
+
+
+
+Admin Control: 
+* Admin User Login. 
+∙ Admin User Login with Admin User Name and Password. 
+ Show Manage. 
+∙ Admin Can Change Show Name and Show Time. 
+* Movie Mange. 
+∙ Admin Can Add New Movie. 
+∙ Admin Can Edit Old Movie Details. 
+∙ Admin Can Delete Movie.
+ * Schedule Manage. 
+∙ Admin Can Add New Movie Schedule. 
+∙ Admin Can Edit Movie Schedule. 
+∙ Admin Can Delete Movie Schedule. 
+* User Manage 
+∙ Admin Can control the signed-up users 
+∙ Admin can delete the account of users who didn't show up for the movie after booking tickets. 
+*Counter Control 
+∙ Counter Employee Login with Counter User Name and Password.
+ ∙ Counter Employee type the message shown by the Customer in the field given and confirm the user. 
+∙ Tickets are issued from the Counter.
+</p>
 
 <h2>The sharing of the Project Report costs ₹150</h2>
 
