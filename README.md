@@ -1,5 +1,7 @@
 # SVCE-Theatre
 <h3> Third-Year Mini-Project (CSE)</h3>
+
+<h4>Introduction</h4>
 <p> Our project basically manages the ticket booking process of a multiplex, providing an interface to the user to book movie tickets in more easier way. At the front end we have used PHP and at the back end My SQL server. The project proceeds through a sequence of well-designed forms provided with validations to ensure consistency, reliability and most importantly correctness of information fed into the database.
 <Br>This report discusses the result of the work done in development of “Online Movie Ticket Management System” on “PHP and HTML” as the Front-end Platform and “MySQL and XAMPPSERVER” as the back-end Platform.
 </p>
