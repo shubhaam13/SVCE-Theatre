@@ -6,7 +6,8 @@
 <Br>This report discusses the result of the work done in development of “Online Movie Ticket Management System” on “PHP and HTML” as the Front-end Platform and “MySQL and XAMPPSERVER” as the back-end Platform.
 </p>
 <h4>MODULE</h4>
-<P>The four modules function parallelly to function as a modern-day multiplex                            
+<P>The four modules function parallelly to function as a modern-day multiplex.   
+                         
 1. Theater 
 2. User
 3. Admin 
